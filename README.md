@@ -36,13 +36,13 @@
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".net" width="40" height="40"/> 
   </a>
   </a>
-  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/C_Sharp_Icon.png" alt="C#" width="40" height="40"/> 
+  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" alt="C#" width="40" height="40"/> 
   </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/RabbitMQ_logo.svg" alt="RabbitMQ" width="40" height="40"/>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg" alt="RabbitMQ" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Oracle_logo.svg" alt="Oracle" width="40" height="40"/>
+  <a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1920px-Oracle_logo.svg.png" width="40" height="40"/>
   </a>
-  <a href="datadoghq.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Datadog_logo.svg" alt="Datadog" width="40" height="40"/>
+  <a href="datadoghq.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/800px-Datadog_logo.svg.png" alt="Datadog" width="40" height="40"/>
   </a>
 </p>
 </br>
