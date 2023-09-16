@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geovanna Carolline</h1>
-<p>- 🌱 I’m currently learning: Web development on Trybe :rocket:</p>
-<p>- ⚡ Fun fact: I have three cats ❤️ </p>
+<p>- 🌱 I’m currently learning: C# and working on XP Inc :rocket:</p>
+<p>- ⚡ Fun fact: I have four cats ❤️ </p>
 
 </br>
 
@@ -31,7 +31,10 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>  
+  </a>
+  </a>
+  <a href="[https://git-scm.com/](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F452184%2Fcsharp&psig=AOvVaw1qNLEYGxZDzwYIN2neA_3f&ust=1694969088035000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjk8YTKr4EDFQAAAAAdAAAAABAE)" alt="git" width="40" height="40"/> 
+  </a> 
 </p>
 
 </br>
