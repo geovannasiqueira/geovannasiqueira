@@ -33,10 +33,18 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   </a>
-  <a href="[https://git-scm.com/](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F452184%2Fcsharp&psig=AOvVaw1qNLEYGxZDzwYIN2neA_3f&ust=1694969088035000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjk8YTKr4EDFQAAAAAdAAAAABAE)" alt="git" width="40" height="40"/> 
-  </a> 
+  <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".net" width="40" height="40"/> 
+  </a>
+  </a>
+  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File:C_Sharp_Icon.png" alt="C#" width="40" height="40"/> 
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File:C_Sharp_Icon.png" alt="RabbitMQ" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Oracle_Database#/media/File:Oracle_logo.svg" alt="Oracle" width="40" height="40"/>
+  </a>
+  <a href="datadoghq.com" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Datadog#/media/File:Datadog_logo.svg" alt="Datadog" width="40" height="40"/>
+  </a>
 </p>
-
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannasiqueira&show_icons=true&locale=en&layout=compact" alt="geovannasiqueira" width="300" height="200"/></p>
