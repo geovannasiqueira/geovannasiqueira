@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geovanna Carolline</h1>
-<p>- 🌱 I’m currently learning: C# and working on XP Inc :rocket:</p>
+<p>- 🌱 I'm currently a developer at Quave :rocket:</p>
 <p>- ⚡ Fun fact: I have four cats ❤️ </p>
 
 </br>
